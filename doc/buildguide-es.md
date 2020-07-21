@@ -276,7 +276,7 @@ Como la librería joystick no está disponible en el repositorio de librerías d
 Arduino hay que bajar e instalar, para ello puedes seguir los siguientes pasos:
 
 1. Bajar el [archivo zip](https://github.com/MHeironimus/ArduinoJoystickLibrary/archive/master.zip)
-1. En el IDE de Arduino seleccionas del menú ```Sketch > Include Library > Add .ZIP Library```.
+1. En el IDE de Arduino seleccionas del menú ```Sketch``` > ```Include Library``` > ```Add .ZIP Library```.
 1. Seleccionas el zip que bajaste y
 1. Oprimes el botón ```Ok``` (o el equivalente).
 
@@ -286,7 +286,7 @@ Instalar la librería Keypad es mucho más fácil, pues está en el repositorio 
 librerías de Arduino, lo que tienes que hacer es lo siguiente en el IDE de
 Arduino:
 
-1. Seleccionas del menú ```Tools > Manaagae libraries...```.
+1. Seleccionas del menú ```Tools``` > ```Manage libraries...```.
 1. En la ventana de dialogo en el campo que dice ```Filter your search...```
   escribes ```keypad```.
 1. Espera unos segundos a que cargue y busque la librería.
@@ -301,11 +301,11 @@ Y ya está.
 Para que el IDE de Arduino pueda programe el *Pro Micro* es necesario instalarlo
 en el IDE. Para ello dsede el IDE debes hacer:
 
-1. De menú seleccionar ```File > Preferences```.
+1. De menú seleccionar ```File``` > ```Preferences```.
 1. Y en el campo que dice "Additional Board Manager URLs" copia y pega lo
   siguiente: ```https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json```
 1. Oprime el botón ```OK```.
-1. Ahora del menú seleccionas ```Tools > Board... > Boards Manager```
+1. Ahora del menú seleccionas ```Tools``` > ```Board...``` > ```Boards Manager```
 1. En la ventana de dialogo en el campo que dice ```Filter your search...```
   escribes ```Sparkfun```.
 1. Espera unos segundos a que cargue.
@@ -323,7 +323,7 @@ o si sabes git del [enlace al repositorio git](https://github.com/aztlek/StarCit
 
 Ahora hay que abrir el código de firmware en el IDE de Arduino:
 
-1. Seleccionas ```File > Open```.
+1. Seleccionas ```File``` > ```Open```.
 1. Buscas donde hayas descomprimido el código del firmware.
 1. Buscas la capeta ```firmware```.
 1. Seleccionas el archivo del mismo nombre ```firmware```.
@@ -568,10 +568,10 @@ conjuntos de pasos.
 
 Para seleccionar el *Pro Micro* y el puerto USB debes:
 
-1. Seleccionas del menú ```Tools > Board... > SparkFun AVR Boards > SparkFun Pro Micro```.
+1. Seleccionas del menú ```Tools``` > ```Board...``` > ```SparkFun AVR Boards``` > ```SparkFun Pro Micro```.
 1. Esta paso es muy importante y depende de cuál *Pro Micro* hayas comprado: el
-  de 3.3V o el de 5. Otra vez seleccionas en el menú ```Tools > Processor... > ATmega32U4 (3.3V, 8MHz)```.
-1. Una vez más en el menú ```Tools > Port``` y el  "COM" que aparezca.
+  de 3.3V o el de 5. Otra vez seleccionas en el menú ```Tools``` > ```Processor...``` > ```ATmega32U4 (3.3V, 8MHz)```.
+1. Una vez más en el menú ```Tools``` > ```Port``` y el  "COM" que aparezca.
 
 ### Compilar
 
