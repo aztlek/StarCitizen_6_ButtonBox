@@ -561,7 +561,8 @@ joystick con ```joystick.releaseButton(code)```. Y como la función es un ciclo
 
 ## Cargar el firmware en la botonera
 
-TODO
+Ahora vas a cargar el firmware a la botonera, para ello sigue los siguientes
+conjuntos de pasos.
 
 ### Selecionar el *Pro Micro* y el puerto USB
 
@@ -577,7 +578,7 @@ Para seleccionar el *Pro Micro* y el puerto USB debes:
 Ahora vas a compilar, esto es, "traducir" el código para que lo entienda el *Pro Micro*.
 La forma más fácil de hacer esto es con las teclas ```CRTL+R```.
 
-### Cargar el firmware el en *Pro Micro*
+### Cargar el firmware en el *Pro Micro*
 
 Ya llegaste el punto culminante de este proceso de cargar el firmware, la
 forma más fácil de hacerlo es con la combinación de teclas ```CTRL+U```.
