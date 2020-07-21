@@ -11,12 +11,10 @@ juego de simulación espacial *Star Citizen* como se ve en la siguiente imagen:
 
 ![Star Citizen Button Box](images/DSC_0036-480x724.jpg)
 
-
 Está compuesta de una serie de interruptores como se ve en el detalle
 siguiente:
 
 ![Detalle de la botonera](images/DSC_0148-724x480jpg)
-
 
 La botonera tiene muy poquitos botones, sólo seis, pero es fácilmente
 extensible a más interruptores.
@@ -114,7 +112,7 @@ Esto son solo recomendaciones, estos son los sitios donde yo compré (principalm
 |    1 | FLux para soldadura            | [Sparkfun: Chip Quik No-Clean Flux Pen - 10mL](https://www.sparkfun.com/products/14579) |
 |    1 | Caja para proyecto electrónico | [Amazon: Caja de plástico 6.2 x 3.54 x 2.3 pulgadas](https://www.amazon.com/-/es/gp/product/B07TS6RY85/ref=ppx_yo_dt_b_asin_title_o00_s00) |
 |    3 | Juntas o empaques              | En la ferretería más cercana. |
-     
+
 # Herramientas recomendadas
 
 Estas herramientas son recomendadas, tu eres libre de comprar las que realmente
@@ -265,7 +263,6 @@ también desde cero, estan la cero, uno y dos.
 
 # Cargar el firmware de la botonera
 
-
 Este es el firmware de la botonera, el sofware para que el Arduino Pro Micro
 pueda procesar las acciones de los interruptores y convertirlos en acciones del
 del joystick.
@@ -278,7 +275,15 @@ TODO: Hacerlo para windows
 
 TODO
 
-## Abrir el código
+## Obtener el código del firmware
+
+Los pasos a seguir para obtener el código son:
+
+1. El código lo puedes bajar en [archivo zip](https://github.com/aztlek/StarCitizen_6_ButtonBox/archive/master.zip)
+o si sabes git del [enlace al repositorio git](https://github.com/aztlek/StarCitizen_6_ButtonBox).
+1. Si lo bajaste de la primera opción esta es un zip que debes descomprimir.
+
+## Abrir el código con el IDE
 
 TODO
 
