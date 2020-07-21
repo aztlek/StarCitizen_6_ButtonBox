@@ -579,7 +579,10 @@ La forma más fácil de hacer esto es con las teclas ```CRTL+R```.
 
 ### Cargar el firmware el en *Pro Micro*
 
+Ya llegaste el punto culminante de este proceso de cargar el firmware, la
+forma más fácil de hacerlo es con la combinación de teclas ```CTRL+U```.
 
+Y ya has pasado lo más difícil.
 
 # Configurar la botonera
 
