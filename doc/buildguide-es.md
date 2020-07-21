@@ -102,18 +102,18 @@ Esto son solo recomendaciones, estos son los sitios donde yo compré (principalm
   Sparkfun), pero puedes comprar donde te apetezca. En la siguiente tabla la
   columna de *Donde comprar* contiene los enlaces a la página de cada producto.
 
- Cant. | Elemento                       | Donde comprar |
- ------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-     3 | Interruptores con cubierta     | [Sparkfun: Toggle Switch and Cover](https://www.sparkfun.com/products/11310) |
-     3 | Interruptores para arcade      | [Sparkfun: Concave Button](https://www.sparkfun.com/products/9339) |
-     6 | Diodos                         | [Sparkfun: Diode Small Signal](https://www.sparkfun.com/products/8588) |
-     2 | Cables                         | [Sparkfun: Hook-up Wire - Yellow](https://www.sparkfun.com/products/8024) |
-     1 | Arduino Pro Micro              | [Sparkfun: Pro Micro - 3.3V/8MHz](https://www.sparkfun.com/products/12587) |
-     1 | Cable USB micro-B Cable        | [Sparkfun: USB micro-B Cable](https://www.sparkfun.com/products/10215) |
-     1 | Soldadura                      | [Sparkfun: Solder Leaded - 15-gram Tube](https://www.sparkfun.com/products/9162) |
-     1 | FLux para soldadura            | [Sparkfun: Chip Quik No-Clean Flux Pen - 10mL](https://www.sparkfun.com/products/14579) |
-     1 | Caja para proyecto electrónico | [Amazon: Caja de plástico 6.2 x 3.54 x 2.3 pulgadas](https://www.amazon.com/-/es/gp/product/B07TS6RY85/ref=ppx_yo_dt_b_asin_title_o00_s00) |
-     3 | Juntas o empaques              | En la ferretería más cercana. |
+|Cant. | Elemento                       | Donde comprar |
+|------|--------------------------------|-------------------------------------------------------------------------------------------------------------|
+|    3 | Interruptores con cubierta     | [Sparkfun: Toggle Switch and Cover](https://www.sparkfun.com/products/11310) |
+|    3 | Interruptores para arcade      | [Sparkfun: Concave Button](https://www.sparkfun.com/products/9339) |
+|    6 | Diodos                         | [Sparkfun: Diode Small Signal](https://www.sparkfun.com/products/8588) |
+|    2 | Cables                         | [Sparkfun: Hook-up Wire - Yellow](https://www.sparkfun.com/products/8024) |
+|    1 | Arduino Pro Micro              | [Sparkfun: Pro Micro - 3.3V/8MHz](https://www.sparkfun.com/products/12587) |
+|    1 | Cable USB micro-B Cable        | [Sparkfun: USB micro-B Cable](https://www.sparkfun.com/products/10215) |
+|    1 | Soldadura                      | [Sparkfun: Solder Leaded - 15-gram Tube](https://www.sparkfun.com/products/9162) |
+|    1 | FLux para soldadura            | [Sparkfun: Chip Quik No-Clean Flux Pen - 10mL](https://www.sparkfun.com/products/14579) |
+|    1 | Caja para proyecto electrónico | [Amazon: Caja de plástico 6.2 x 3.54 x 2.3 pulgadas](https://www.amazon.com/-/es/gp/product/B07TS6RY85/ref=ppx_yo_dt_b_asin_title_o00_s00) |
+|    3 | Juntas o empaques              | En la ferretería más cercana. |
      
 # Herramientas recomendadas
 
