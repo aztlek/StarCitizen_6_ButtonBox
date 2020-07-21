@@ -179,7 +179,7 @@ Para hacer los agujeros hice una plantilla que es la siguiente:
 ![Plantilla agujeros](images/boxDesign_conMedidas.png)
 
 
-Te dejo un enlace al pdf **[plantilla](boxDesign.pdf)** para que puedas imprimirlo,
+Te dejo un enlace al pdf **[plantilla](../box/boxDesign.pdf)** para que puedas imprimirlo,
 recortarlo y pegarlo sobre la tapa de la caja para que guiarte para los agujeros.
 Para esto debes:
 
