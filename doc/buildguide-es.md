@@ -169,16 +169,15 @@ Esto son solo recomendaciones, estos son los sitios donde yo compré (principalm
 
 El armado de la botonera consta de varios pasos que se detallan a continuación.
 
-
 ## Hacer los agujeros para los interruptores
 
 Para hacer los agujeros hice una plantilla que es la siguiente:
 
 ![Plantilla agujeros](images/boxDesign_conMedidas.png)
 
-Te dejo un enlace al pdf **[plantilla](../box/boxDesign.pdf)** para que puedas imprimirlo,
-recortarlo y pegarlo sobre la tapa de la caja para que guiarte para los agujeros.
-Para esto debes:
+Te dejo un enlace al pdf **[plantilla](../box/boxDesign.pdf)** para que puedas
+imprimirlo, y pegarlo sobre la tapa de la caja para que guiarte para los
+agujeros. Para esto debes:
 
 1. Recortar la plantilla por los bordes de la caja.
 1. Pegar la plantilla en la tapa de la caja de tal forma que quede firme pero
@@ -230,7 +229,7 @@ Ahora tienes que colocar los interruptores en los agujeros:
 ## Conexiones
 
 Una vez colocados los interruptores en la caja, y no antes, debes conectar
-soldando en  la forma en como se ve en la siguiente figura<sup>[1](#SparkfunLicence)</sup>:
+soldando en la forma en como se ve en la siguiente figura<sup>[1](#SparkfunLicence)</sup>:
 
 ![Diagrama de Conexiones](images/connectionDiagram.png)
 
@@ -271,7 +270,7 @@ del joystick.
 
 TODO: Hacerlo para windows
 
-## Instalando la librería joystick
+## Instalar la librería joystick
 
 Como la librería joystick no está disponible en el repositorio de librerías de
 Arduino hay que bajar e instalar, para ello puedes seguir los siguientes pasos:
@@ -280,6 +279,14 @@ Arduino hay que bajar e instalar, para ello puedes seguir los siguientes pasos:
 1. En el IDE de Arduino seleccionas ```Sketch > Include Library > Add .ZIP Library```.
 1. Seleccionas el zip que bajaste y
 1. Oprimes el botón ```Ok``` (o el equivalente).
+
+## Instalar la librería  Keypad
+
+TODO
+
+## Instalar el *Pro Micro* en el IDE de Arduino
+
+TODO
 
 ## Obtener el código del firmware
 
