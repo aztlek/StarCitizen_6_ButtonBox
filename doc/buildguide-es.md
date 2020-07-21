@@ -102,6 +102,7 @@ Esto son solo recomendaciones, estos son los sitios donde yo compré (principalm
   Sparkfun), pero puedes comprar donde te apetezca. En la siguiente tabla la
   columna de *Donde comprar* contiene los enlaces a la página de cada producto.
 
+------ ------------------------------ ---------------
  Cant. Elemento                       Donde comprar
 ------ ------------------------------ ---------------
      3 Interruptores con cubierta     [Sparkfun: Toggle Switch and Cover](https://www.sparkfun.com/products/11310)
