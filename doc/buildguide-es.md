@@ -159,13 +159,13 @@ Esto son solo recomendaciones, estos son los sitios donde yo compré (principalm
   Sparkfun), pero puedes comprar donde te apetezca. En la siguiente tabla la
   columna de *Donde comprar* contiene los enlaces a la página de cada producto.
 
- Cant. Elemento                       Donde comprar
------- ------------------------------ ---------------
-     1 Soldador de estaño             [Amazon: Weller WLC100 Estación de soldadura de 40 W](https://www.amazon.com/-/es/gp/product/B000AS28UC)
-     1 Brocas par abrir agujeros      [Amazon: TACKLIFE - Juego de 5 brocas de titanio](https://www.amazon.com/-/es/gp/product/B0746FZT52)
-     1 Tercera mano                   [Sparkfun: Third Hand](https://www.sparkfun.com/products/9317)   
-     1 Pinzas corta cable             [Sparkfun: Flush Cutters - Xcelite](https://www.sparkfun.com/products/14782)
-     1 Tapete aislante para soldar.   [Sparkfun: Insulated Silicone Soldering Mat](https://www.sparkfun.com/products/14672)
+ |Cant.| Elemento                     | Donde comprar  |
+|------|------------------------------|----------------|
+|    1 | Soldador de estaño           | [Amazon: Weller WLC100 Estación de soldadura de 40 W](https://www.amazon.com/-/es/gp/product/B000AS28UC) |
+|    1 | Brocas par abrir agujeros    | [Amazon: TACKLIFE - Juego de 5 brocas de titanio](https://www.amazon.com/-/es/gp/product/B0746FZT52) |
+|    1 | Tercera mano                 | [Sparkfun: Third Hand](https://www.sparkfun.com/products/9317) |
+|    1 | Pinzas corta cable           | [Sparkfun: Flush Cutters - Xcelite](https://www.sparkfun.com/products/14782) |
+|    1 | Tapete aislante para soldar. | [Sparkfun: Insulated Silicone Soldering Mat](https://www.sparkfun.com/products/14672) |
 
 # Armado
 
