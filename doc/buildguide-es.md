@@ -308,8 +308,8 @@ en el IDE. Para ello dsede el IDE debes hacer:
 1. Ahora del menú seleccionas ```Tools > Board... > Boards Manager```
 1. En la ventana de dialogo en el campo que dice ```Filter your search...```
   escribes ```Sparkfun```.
-1. Espera unos segundos a que cargue y busque las tarjetas.
-1. Y donde dice "SparkFun AVR Boards" aprime el botón ```Install```.
+1. Espera unos segundos a que cargue.
+1. Y donde dice "SparkFun AVR Boards" oprime el botón ```Install```.
 
 ## Obtener el código del firmware
 
@@ -562,6 +562,24 @@ joystick con ```joystick.releaseButton(code)```. Y como la función es un ciclo
 ## Cargar el firmware en la botonera
 
 TODO
+
+### Selecionar el *Pro Micro* y el puerto USB
+
+Para seleccionar el *Pro Micro* y el puerto USB debes:
+
+1. Seleccionas del menú ```Tools > Board... > SparkFun AVR Boards > SparkFun Pro Micro```.
+1. Esta paso es muy importante y depende de cuál *Pro Micro* hayas comprado: el
+  de 3.3V o el de 5. Otra vez seleccionas en el menú ```Tools > Processor... > ATmega32U4 (3.3V, 8MHz)```.
+1. Una vez más en el menú ```Tools > Port``` y el  "COM" que aparezca.
+
+### Compilar
+
+Ahora vas a compilar, esto es, "traducir" el código para que lo entienda el *Pro Micro*.
+La forma más fácil de hacer esto es con las teclas ```CRTL+R```.
+
+### Cargar el firmware el en *Pro Micro*
+
+
 
 # Configurar la botonera
 
