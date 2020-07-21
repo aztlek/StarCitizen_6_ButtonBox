@@ -1,14 +1,4 @@
----
-title: Button Box for Star Citizen
-author:
-- Luis Alejandro Bernal Romero (Aztlek)
-keywords: [Star Citizen, Button box, Botonera, Arduino, Pro Micro, Sparkfun]
-abstract:
-  This is a guide that describes how to make a buttton box for the
-  space simulation game * Star Citizen *.
-...
-
-#Introduction
+# Introduction
 
 The Button Box is made up of a series of switches, which can be used to make certain controls of the ship "more physical", thus facilitating the piloting of the ship in Star Citizen. For example, it can be used to raise and lower the landing gear, to turn the ship on and off, to lower and raise the shields and everything else you want.
 
