@@ -9,13 +9,13 @@ nave, bajar y subir los escudos y todos lo que se quiera.
 Esta es una guía que describe como hacer la botonera (o buttton box) para el
 juego de simulación espacial *Star Citizen* como se ve en la siguiente imagen:
 
-![Star Citizen Button Box](images/DSC_0036-480x724.jpg)\
+![Star Citizen Button Box](images/DSC_0036-480x724.jpg)
 
 
 Está compuesta de una serie de interruptores como se ve en el detalle
 siguiente:
 
-![Detalle de la botonera](images/DSC_0148-724x480jpg)\
+![Detalle de la botonera](images/DSC_0148-724x480jpg)
 
 
 La botonera tiene muy poquitos botones, sólo seis, pero es fácilmente
@@ -102,19 +102,19 @@ Esto son solo recomendaciones, estos son los sitios donde yo compré (principalm
   Sparkfun), pero puedes comprar donde te apetezca. En la siguiente tabla la
   columna de *Donde comprar* contiene los enlaces a la página de cada producto.
 
- Cant. Elemento                       Donde comprar
------- ------------------------------ ---------------
-     3 Interruptores con cubierta     [Sparkfun: Toggle Switch and Cover](https://www.sparkfun.com/products/11310)
-     3 Interruptores para arcade      [Sparkfun: Concave Button](https://www.sparkfun.com/products/9339)
-     6 Diodos                         [Sparkfun: Diode Small Signal](https://www.sparkfun.com/products/8588)
-     2 Cables                         [Sparkfun: Hook-up Wire - Yellow](https://www.sparkfun.com/products/8024)
-     1 Arduino Pro Micro              [Sparkfun: Pro Micro - 3.3V/8MHz](https://www.sparkfun.com/products/12587)
-     1 Cable USB micro-B Cable        [Sparkfun: USB micro-B Cable](https://www.sparkfun.com/products/10215)
-     1 Soldadura                      [Sparkfun: Solder Leaded - 15-gram Tube](https://www.sparkfun.com/products/9162)
-     1 FLux para soldadura            [Sparkfun: Chip Quik No-Clean Flux Pen - 10mL](https://www.sparkfun.com/products/14579)
-     1 Caja para proyecto electrónico [Amazon: Caja de plástico 6.2 x 3.54 x 2.3 pulgadas](https://www.amazon.com/-/es/gp/product/B07TS6RY85/ref=ppx_yo_dt_b_asin_title_o00_s00)
-     3 Juntas o empaques              En la ferretería más cercana.
-
+|Cant. | Elemento                       | Donde comprar |
+|------|--------------------------------|---------------------------------------------------------------------------------|
+|    3 | Interruptores con cubierta     | [Sparkfun: Toggle Switch and Cover](https://www.sparkfun.com/products/11310) |
+|    3 | Interruptores para arcade      | [Sparkfun: Concave Button](https://www.sparkfun.com/products/9339) |
+|    6 | Diodos                         | [Sparkfun: Diode Small Signal](https://www.sparkfun.com/products/8588) |
+|    2 | Cables                         | [Sparkfun: Hook-up Wire - Yellow](https://www.sparkfun.com/products/8024) |
+|    1 | Arduino Pro Micro              | [Sparkfun: Pro Micro - 3.3V/8MHz](https://www.sparkfun.com/products/12587) |
+|    1 | Cable USB micro-B Cable        | [Sparkfun: USB micro-B Cable](https://www.sparkfun.com/products/10215) |
+|    1 | Soldadura                      | [Sparkfun: Solder Leaded - 15-gram Tube](https://www.sparkfun.com/products/9162) |
+|    1 | FLux para soldadura            | [Sparkfun: Chip Quik No-Clean Flux Pen - 10mL](https://www.sparkfun.com/products/14579) |
+|    1 | Caja para proyecto electrónico | [Amazon: Caja de plástico 6.2 x 3.54 x 2.3 pulgadas](https://www.amazon.com/-/es/gp/product/B07TS6RY85/ref=ppx_yo_dt_b_asin_title_o00_s00) |
+|    3 | Juntas o empaques              | En la ferretería más cercana. |
+     
 # Herramientas recomendadas
 
 Estas herramientas son recomendadas, tu eres libre de comprar las que realmente
@@ -159,13 +159,13 @@ Esto son solo recomendaciones, estos son los sitios donde yo compré (principalm
   Sparkfun), pero puedes comprar donde te apetezca. En la siguiente tabla la
   columna de *Donde comprar* contiene los enlaces a la página de cada producto.
 
- Cant. Elemento                       Donde comprar
------- ------------------------------ ---------------
-     1 Soldador de estaño             [Amazon: Weller WLC100 Estación de soldadura de 40 W](https://www.amazon.com/-/es/gp/product/B000AS28UC)
-     1 Brocas par abrir agujeros      [Amazon: TACKLIFE - Juego de 5 brocas de titanio](https://www.amazon.com/-/es/gp/product/B0746FZT52)
-     1 Tercera mano                   [Sparkfun: Third Hand](https://www.sparkfun.com/products/9317)   
-     1 Pinzas corta cable             [Sparkfun: Flush Cutters - Xcelite](https://www.sparkfun.com/products/14782)
-     1 Tapete aislante para soldar.   [Sparkfun: Insulated Silicone Soldering Mat](https://www.sparkfun.com/products/14672)
+ |Cant.| Elemento                     | Donde comprar  |
+|------|------------------------------|----------------|
+|    1 | Soldador de estaño           | [Amazon: Weller WLC100 Estación de soldadura de 40 W](https://www.amazon.com/-/es/gp/product/B000AS28UC) |
+|    1 | Brocas par abrir agujeros    | [Amazon: TACKLIFE - Juego de 5 brocas de titanio](https://www.amazon.com/-/es/gp/product/B0746FZT52) |
+|    1 | Tercera mano                 | [Sparkfun: Third Hand](https://www.sparkfun.com/products/9317) |
+|    1 | Pinzas corta cable           | [Sparkfun: Flush Cutters - Xcelite](https://www.sparkfun.com/products/14782) |
+|    1 | Tapete aislante para soldar. | [Sparkfun: Insulated Silicone Soldering Mat](https://www.sparkfun.com/products/14672) |
 
 # Armado
 
@@ -176,10 +176,9 @@ El armado de la botonera consta de varios pasos que se detallan a continuación.
 
 Para hacer los agujeros hice una plantilla que es la siguiente:
 
-![Plantilla agujeros](images/boxDesign_conMedidas.png)\
+![Plantilla agujeros](images/boxDesign_conMedidas.png)
 
-
-Te dejo un enlace al pdf **[plantilla](boxDesign.pdf)** para que puedas imprimirlo,
+Te dejo un enlace al pdf **[plantilla](../box/boxDesign.pdf)** para que puedas imprimirlo,
 recortarlo y pegarlo sobre la tapa de la caja para que guiarte para los agujeros.
 Para esto debes:
 
@@ -233,14 +232,9 @@ Ahora tienes que colocar los interruptores en los agujeros:
 ## Conexiones
 
 Una vez colocados los interruptores en la caja, y no antes, debes conectar
-soldando en  la forma en como se ve en la siguiente figura [^SparkfunLicence]:
+soldando en  la forma en como se ve en la siguiente figura<sup>[1](#SparkfunLicence)</sup>:
 
-![Diagrama de Conexiones](images/connectionDiagram.png)\
-
-
-[^SparkfunLicence]: Las imágenes de los interruptores y del *Pro Micro* son tomadas de la página
-de [Sparkfun](https://www.sparkfun.com) donde tiene una licencia *Attribution 2.0 Generic (CC BY 2.0)*
-
+![Diagrama de Conexiones](images/connectionDiagram.png)
 
 Lo más importante aquí es que los diodos te queden orientados correctamente,
 como se ve en la figura, estos tienen una franja negra esta debe quedar hacia
@@ -359,7 +353,7 @@ void loop() {
 }  // End loop
 ```
 
-Ahora mirémoslo punto por puntp. El siguiente código:
+Ahora mirémoslo punto por punto. El siguiente código:
 
 ```C++
 #include <Keypad.h>
@@ -368,7 +362,7 @@ Ahora mirémoslo punto por puntp. El siguiente código:
 
 Son las dos librerías necesarias. La primera librería la ```Keypad.h``` se usa
 para "leer" los interruptores, funciona en forma de matriz. La segunda librería
-la ```Joystick.h``` [^ArduinoJoystickLibrary] es usada para simular las acciones \
+la ```Joystick.h```<sup>[2](#ArduinoJoystickLibrary)</sup> es usada para simular las acciones
 de un joystick, en este caso para simular el accionar los interruptores de un
 joystick.
 
@@ -406,7 +400,7 @@ byte colPins[NUMCOLS] = {19, 18, 15};
 ```
 
 Son dos arreglos que contienen los pines a los que está conectados las
-respectivas filas y columnas. En el *Pro Micro*  los pines se numeran como se
+respectivas filas y columnas. En el *Pro Micro* los pines se numeran como se
 ve en la siguiente figura:
 
 ![Pines del *Pro Micro*](images/arduino-pro-micro-pinout.png)
@@ -454,19 +448,19 @@ constante es id por omisión de los joystick.
 
 El segundo parámetro ```JOYSTICK_TYPE_JOYSTICK``` es para
 especificar que es un joystick normal. También se puede poner un mando de video
-juegos o un multiejes, para manejar un total de 11 ejes [^ArduinoJoystickLibrary].
+juegos o un multiejes, para manejar un total de 11 ejes<sup>[2](#ArduinoJoystickLibrary)</sup>.
 
 El tercer parámetro ```MAXKEYS``` es el numero total de botones. Y en nuestro
 caso esta constante tiene el numero 6.
 
 El cuarto parámetro es el numero de hats, esto es, el numero de crucetas de un
 mando, esto quiere decir que esta librería es capaz de emular un mando de
-consola de vídeo juego, como la botonera no tiene se pone cero [^ArduinoJoystickLibrary].
+consola de vídeo juego, como la botonera no tiene se pone cero<sup>[2](#ArduinoJoystickLibrary)</sup>.
 
 Del quinto parámetro en adelante se especifica el numero de ejes que se activan,
 como la botonera no tiene se ponen todos en falso. Esta librería aparte de los
 seis ejes es también capaz de emular los ejes de la palanca de gases, un
-acelerador, un freno y otros [^ArduinoJoystickLibrary].
+acelerador, un freno y otros<sup>[2](#ArduinoJoystickLibrary)</sup>.
 
 El código que viene a con continuación:
 
@@ -518,9 +512,6 @@ interruptor de *lanzar misiles*) si simula la liberación de un botón del
 joystick con ```joystick.releaseButton(code)```. Y como la función es un ciclo
 (loop) se vuelve a empezar.
 
-[^ArduinoJoystickLibrary]: Si quieres saber más sobre la librería joystick puedes
-mirar su documentación en git [MHeironimus/ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary)
-
 ## Cargar el firmware en la botonera
 
 TODO
@@ -536,3 +527,12 @@ TODO
 ## configurar los interruptores en Star Citizen
 
 TODO
+
+
+# Notas
+
+<a name="SparkfunLicence">1</a>: Las imágenes de los interruptores y del *Pro Micro* son tomadas de la página
+de [Sparkfun](https://www.sparkfun.com) donde tiene una licencia *Attribution 2.0 Generic (CC BY 2.0)*.
+
+<a name="ArduinoJoystickLibrary">2</a>: Si quieres saber más sobre la librería joystick puedes
+mirar su documentación en git [MHeironimus/ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary)
