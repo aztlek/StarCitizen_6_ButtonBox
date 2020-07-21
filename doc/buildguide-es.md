@@ -266,7 +266,7 @@ Este es el firmware de la botonera, el sofware para que el Arduino Pro Micro
 pueda procesar las acciones de los interruptores y convertirlos en acciones del
 del joystick.
 
-## Instalar el IDE de Aduino
+## Instalar el IDE de Arduino
 
 TODO: Hacerlo para windows
 
@@ -276,13 +276,25 @@ Como la librería joystick no está disponible en el repositorio de librerías d
 Arduino hay que bajar e instalar, para ello puedes seguir los siguientes pasos:
 
 1. Bajar el [archivo zip](https://github.com/MHeironimus/ArduinoJoystickLibrary/archive/master.zip)
-1. En el IDE de Arduino seleccionas ```Sketch > Include Library > Add .ZIP Library```.
+1. En el IDE de Arduino seleccionas del menú ```Sketch > Include Library > Add .ZIP Library```.
 1. Seleccionas el zip que bajaste y
 1. Oprimes el botón ```Ok``` (o el equivalente).
 
-## Instalar la librería  Keypad
+## Instalar la librería Keypad
 
-TODO
+Instalar la librería Keypad es mucho más fácil, pues está en el repositorio de
+librerías de Arduino, lo que tienes que hacer es lo siguiente en el IDE de
+Arduino:
+
+1. Seleccionas del menú ```Tools > Manaagae libraries...```.
+1. En la ventana de dialogo en el campo que dice ```Filter your search...```
+  escribes ```keypad```.
+1. Espera unos segundos a que cargue y busque la librería.
+1. Busca la que dice debajo del título "by Mark Stanley, Alexander Brevig ...".
+1. Clic en el botón ```Install```.
+1. Espera otros segundos.
+
+Y ya está.
 
 ## Instalar el *Pro Micro* en el IDE de Arduino
 
