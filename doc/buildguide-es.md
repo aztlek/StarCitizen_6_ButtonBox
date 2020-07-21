@@ -103,7 +103,7 @@ Esto son solo recomendaciones, estos son los sitios donde yo compré (principalm
   columna de *Donde comprar* contiene los enlaces a la página de cada producto.
 
 |Cant. | Elemento                       | Donde comprar |
-|------|--------------------------------|-------------------------------------------------------------------------------------------------------------|
+|------|--------------------------------|---------------------------------------------------------------------------------|
 |    3 | Interruptores con cubierta     | [Sparkfun: Toggle Switch and Cover](https://www.sparkfun.com/products/11310) |
 |    3 | Interruptores para arcade      | [Sparkfun: Concave Button](https://www.sparkfun.com/products/9339) |
 |    6 | Diodos                         | [Sparkfun: Diode Small Signal](https://www.sparkfun.com/products/8588) |
@@ -233,12 +233,12 @@ Ahora tienes que colocar los interruptores en los agujeros:
 ## Conexiones
 
 Una vez colocados los interruptores en la caja, y no antes, debes conectar
-soldando en  la forma en como se ve en la siguiente figura [^SparkfunLicence]:
+soldando en  la forma en como se ve en la siguiente figura<sup>[1](#SparkfunLicence)</sup>:
 
 ![Diagrama de Conexiones](images/connectionDiagram.png)\
 
 
-[^SparkfunLicence]: Las imágenes de los interruptores y del *Pro Micro* son tomadas de la página
+<a name="SparkfunLicence">1</a>: Las imágenes de los interruptores y del *Pro Micro* son tomadas de la página
 de [Sparkfun](https://www.sparkfun.com) donde tiene una licencia *Attribution 2.0 Generic (CC BY 2.0)*
 
 
