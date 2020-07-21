@@ -9,13 +9,13 @@ nave, bajar y subir los escudos y todos lo que se quiera.
 Esta es una guía que describe como hacer la botonera (o buttton box) para el
 juego de simulación espacial *Star Citizen* como se ve en la siguiente imagen:
 
-![Star Citizen Button Box](images/DSC_0036-480x724.jpg)\
+![Star Citizen Button Box](images/DSC_0036-480x724.jpg)
 
 
 Está compuesta de una serie de interruptores como se ve en el detalle
 siguiente:
 
-![Detalle de la botonera](images/DSC_0148-724x480jpg)\
+![Detalle de la botonera](images/DSC_0148-724x480jpg)
 
 
 La botonera tiene muy poquitos botones, sólo seis, pero es fácilmente
@@ -176,7 +176,7 @@ El armado de la botonera consta de varios pasos que se detallan a continuación.
 
 Para hacer los agujeros hice una plantilla que es la siguiente:
 
-![Plantilla agujeros](images/boxDesign_conMedidas.png)\
+![Plantilla agujeros](images/boxDesign_conMedidas.png)
 
 
 Te dejo un enlace al pdf **[plantilla](boxDesign.pdf)** para que puedas imprimirlo,
