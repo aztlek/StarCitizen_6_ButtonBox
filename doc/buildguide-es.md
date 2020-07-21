@@ -298,7 +298,18 @@ Y ya está.
 
 ## Instalar el *Pro Micro* en el IDE de Arduino
 
-TODO
+Para que el IDE de Arduino pueda programe el *Pro Micro* es necesario instalarlo
+en el IDE. Para ello dsede el IDE debes hacer:
+
+1. De menú seleccionar ```File > Preferences```.
+1. Y en el campo que dice "Additional Board Manager URLs" copia y pega lo
+  siguiente: ```https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json```
+1. Oprime el botón ```OK```.
+1. Ahora del menú seleccionas ```Tools > Board... > Boards Manager```
+1. En la ventana de dialogo en el campo que dice ```Filter your search...```
+  escribes ```Sparkfun```.
+1. Espera unos segundos a que cargue y busque las tarjetas.
+1. Y donde dice "SparkFun AVR Boards" aprime el botón ```Install```.
 
 ## Obtener el código del firmware
 
