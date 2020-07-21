@@ -289,9 +289,15 @@ Los pasos a seguir para obtener el código son:
 o si sabes git del [enlace al repositorio git](https://github.com/aztlek/StarCitizen_6_ButtonBox).
 1. Si lo bajaste de la primera opción esta es un zip que debes descomprimir.
 
-## Abrir el código con el IDE
+## Abrir el código con el IDE de Arduino
 
-TODO
+Ahora hay que abrir el código de firmware en el IDE de Arduino:
+
+1. Seleccionas ```File > Open```.
+1. Buscas donde hayas descomprimido el código del firmware.
+1. Buscas la capeta ```firmware```.
+1. Seleccionas el archivo del mismo nombre ```firmware```.
+1. Oprimes el botón ```Ok``` (o equivalente).
 
 ### Una explicación del código
 
