@@ -1,14 +1,3 @@
----
-title: Botonera para Star Citizen V1 (Star Citizen Button Box)
-author:
-- Luis Alejandro Bernal Romero (Aztlek)
-keywords: [Star Citizen, Button box, Botonera, Arduino, Pro Micro, Sparkfun]
-abstract:
-  Esta es una guía que describe como hacer una botonera (o buttton box) para el
-  juego de simulación espacial *Star Citizen*.
-lang: es-CO  
-...
-
 # Introducción
 
 La botonera es un caja compuesta de una serie de interruptores, que pueden ser
