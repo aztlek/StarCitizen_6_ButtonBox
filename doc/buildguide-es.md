@@ -273,7 +273,13 @@ TODO: Hacerlo para windows
 
 ## Instalando la librería joystick
 
-TODO
+Como la librería joystick no está disponible en el repositorio de librerías de
+Arduino hay que bajar e instalar, para ello puedes seguir los siguientes pasos:
+
+1. Bajar el [archivo zip](https://github.com/MHeironimus/ArduinoJoystickLibrary/archive/master.zip)
+1. En el IDE de Arduino seleccionas ```Sketch > Include Library > Add .ZIP Library```.
+1. Seleccionas el zip que bajaste y
+1. Oprimes el botón ```Ok``` (o el equivalente).
 
 ## Obtener el código del firmware
 
