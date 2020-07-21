@@ -103,6 +103,7 @@ Esto son solo recomendaciones, estos son los sitios donde yo compré (principalm
   columna de *Donde comprar* contiene los enlaces a la página de cada producto.
 
  Cant. | Elemento                       | Donde comprar |
+ ------|--------------------------------|---------------|
      3 | Interruptores con cubierta     | [Sparkfun: Toggle Switch and Cover](https://www.sparkfun.com/products/11310) |
      3 | Interruptores para arcade      | [Sparkfun: Concave Button](https://www.sparkfun.com/products/9339) |
      6 | Diodos                         | [Sparkfun: Diode Small Signal](https://www.sparkfun.com/products/8588) |
